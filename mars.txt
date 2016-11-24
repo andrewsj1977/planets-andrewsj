@@ -5,3 +5,6 @@ Author: John Andrews
 Affiliation: Scion
 
 Title: Paper about planets and stars
+
+References:
+(from the references.bib file)
